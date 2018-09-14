@@ -6,7 +6,7 @@ First, ensure that you have the libpq-dev package, ruby 2.3.4 and the bundler ge
 
  * gem install bundler (required both locally and on remote server)
 
- * rvm install ruby-2.3.4 (This assumes you have installed RVM.)
+ * rvm install ruby-2.5.1 (This assumes you have installed RVM.)
 
 ## Deploy with capitrano or caphub.
 
